@@ -64,4 +64,10 @@
       </plugins>
     </pluginManagement>
   </build>
+<distributionManagement>
+   <repository>
+      <id>kishore</id>
+        <url>http://192.168.0.128:8080</url>
+   </repository>
+</distributionManagement>
 </project>
